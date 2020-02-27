@@ -36,7 +36,7 @@ void loop()
   Serial.print(", Volts: ");
   Serial.print(voltage);
 
-  float temperature = (voltage - 0.5)*100;
+  float temperature = (voltage - 0.55)*100;
   Serial.print(", degrees C: ");
   Serial.println(temperature);
 
