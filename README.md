@@ -1,5 +1,15 @@
-# Arduino
-*Scratch_Paper, Labs&lt;Intro_Labs, Work_Shops>, Various Projects...*
+# Arduino Repository
+## Dumping ground for notes, labs and prototyping
+### *Isaac Yep*; free to use for educational purposes
 
+<br/>
 
-![Orginization_Struct](https://user-images.githubusercontent.com/36245150/62757899-98216500-ba31-11e9-98ca-df08b0c2a971.jpg)
+**Notes**
+* Common calls to serial library
+* Digital I/O
+* Analog I/O
+
+**Labs**
+* Temperature sensor lab
+* Light show lab
+<br/>
